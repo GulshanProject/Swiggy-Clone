@@ -1,0 +1,22 @@
+.flex-container{
+    /* display: flex; */
+    border: 2px solid blue;
+    padding: 10px;
+    display: flex;
+    flex-flow: row wrap;
+    height: 400px;
+   
+}
+
+.flex-item{
+
+     border: 1px solid orange; 
+    background-color: blue;
+    padding: 50px;
+    color: white;
+     
+}
+.item3{
+    background-color: orange;
+    align-self: start;
+}
